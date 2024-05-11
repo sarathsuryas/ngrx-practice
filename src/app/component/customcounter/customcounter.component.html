@@ -1,0 +1,19 @@
+<mat-card>
+  <mat-card-content>
+    <h1>{{channelname}}</h1>
+  <mat-form-field>
+    <mat-label>Counter</mat-label>
+    <input matInput [(ngModel)]="counterInput">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Action Type</mat-label>
+    <mat-select [(ngModel)]="ActionType">
+      <mat-option value="add">Add</mat-option>
+      <mat-option value="Remove">Remove</mat-option>
+    </mat-select>
+  </mat-form-field>
+  <br>
+  <button mat-raised-button color="primary" (click)="OnIncrement()">Custom Increment (+)</button>
+</mat-card-content>
+ 
+</mat-card>

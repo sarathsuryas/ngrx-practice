@@ -1,0 +1,84 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Angular 16",
+      "description": "Angular 16 is an opensource powered by google"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "description": "React is an opensource powered by META"
+    },
+    {
+      "id": 3,
+      "title": "Java",
+      "description": "Java Tech"
+    },
+    {
+      "id": 0,
+      "title": "Angular TS",
+      "description": "strict typing\n"
+    },
+    {
+      "id": 0,
+      "title": "dds",
+      "description": "daad"
+    },
+    {
+      "id": 0,
+      "title": "dadad",
+      "description": "ddd"
+    },
+    {
+      "id": 0,
+      "title": "v",
+      "description": "v"
+    },
+    {
+      "id": 0,
+      "title": "ddd",
+      "description": "cccc"
+    },
+    {
+      "id": 0,
+      "title": "sjjs",
+      "description": "slklksfk"
+    },
+    {
+      "id": 0,
+      "title": "d",
+      "description": "c"
+    },
+    {
+      "id": 0,
+      "title": "s",
+      "description": "s"
+    },
+    {
+      "id": 0,
+      "title": "e",
+      "description": "w"
+    },
+    {
+      "id": 0,
+      "title": "kkdk",
+      "description": "dddd"
+    },
+    {
+      "id": 0,
+      "title": "d",
+      "description": "d"
+    },
+    {
+      "id": 0,
+      "title": "d",
+      "description": "c"
+    },
+    {
+      "id": 0,
+      "title": "ss",
+      "description": "ssss"
+    }
+  ]
+}
